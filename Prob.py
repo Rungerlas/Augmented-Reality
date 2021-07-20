@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-2020年5月8日18:43:29
 
-@author: Tu Kechao ，Ruohuan Xu
-"""
 
 from cv2 import cv2
 import numpy as np
